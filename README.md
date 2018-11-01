@@ -15,7 +15,7 @@ We will be using GitHub Projects to track both current events and dates (like
 Cohorts) and also for planning and tracking any PM-specific projects we might
 undertake. 
 
-- [PM Calendar](https://github.com/w3develops/pmrok/projects/1)
+- [PM Calendar](https://github.com/w3develops/pmrok/projects)
 
 
 ## Announcements :exclamation:
