@@ -7,7 +7,7 @@ share what we've learned with our fellow PM's.
 
 The wiki can be accessed via this repos tab bar:
 
-![GitHub Wiki Tab](https://github.com/w3develops/cohort-wiki/blob/development/images/GitHub%20repo%20tabs.png)
+![GitHub Wiki Tab](https://github.com/w3develops/pmrok/wiki)
 
 ### Projects
 
